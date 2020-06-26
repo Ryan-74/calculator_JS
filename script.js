@@ -1,3 +1,6 @@
+// hello coder i am new in javascript this is my first project
+
+
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement
